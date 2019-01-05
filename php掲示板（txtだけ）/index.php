@@ -70,4 +70,3 @@ while( $res = fgets( $fp)){
     </dl>
 </body>
 </html>
-まずは掲示板のソースですね。
